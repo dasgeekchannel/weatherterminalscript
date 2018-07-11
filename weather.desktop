@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=weatherterminalscript.sh
+GenericName=weather
+Comment=a terminal based weather and bitcoin script
+Exec=/home/dasgeek/Documents/weatherterminalscript.sh
+Terminal=true
+Type=Application
+X-GNOME-Autostart-enabled=true
